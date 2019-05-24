@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-Daily standups,adopt,techniques,false,"Having a daily standup each day helps us prepare to have the best possible day."
+Daily standups,adopt,techniques,false,"Having a daily standup each day is great and helps us prepare to have the best possible day."
 Pairing,adopt,techniques,false,"Pairing helps collaboration and knowledge transfer within the team."
 Team Exploratory Testing Sessions,adopt,techniques,false,"Team exploratory testing helps us gain deep feedback on development work."
 Lightweight Architecure Decision Records,adopt,techniques,false,"Much documentation can be replaced with highly readable code and tests. In a world of evolutionary architecture, however, it's important to record certain design decisions for the benefit of future team members as well as for external oversight. Lightweight Architecture Decision Records is a technique for capturing important architectural decisions along with their context and consequences. We store these details in source control, instead of a wiki or website, as then they can provide a record that remains in sync with the code itself."
